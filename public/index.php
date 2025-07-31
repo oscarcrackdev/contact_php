@@ -1,3 +1,10 @@
+<?php
+
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +13,13 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+    session_start
+    ?>
     
+
+    <main>
+    Oscar
+    </main>
 </body>
 </html>
